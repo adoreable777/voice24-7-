@@ -1,0 +1,14 @@
+{
+  "name": "voice_stay_bot",
+  "version": "1.0.0",
+  "description": "A bot that stays in a voice channel, muted and deafened.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
